@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachepync",
+        "uuid": 6207360,
+        "checksum": "sgyb6l"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
